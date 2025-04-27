@@ -19,7 +19,7 @@ const resources = {
           daaiDescription: "Daai Component is an open-source project I created while working at Doctor Assistant. It focuses on externalizing an AI-powered component to be integrated into other systems.",
           daaiLink: "https://www.npmjs.com/package/@doctorassistant/daai-component",
           beersApp: "App Delivery Beers",
-          beersAppDescription: "Beers App is a website I built to practice my skills with React, TypeScript, and JavaScript — themed around Studio Ghibli.",
+          beersAppDescription: "Beers App is a website I made with my colleagues during the trybe course, in this application we have the back-end and the front-end. It was inspired by a beverage sales application",
           beersAppLink: "https://github.com/vitoriacst/App_delivery_Beers",
         }
       ],
@@ -48,7 +48,7 @@ const resources = {
           daaiDescription: 'Daai component foi um projeto open source criado durante o meu trabalho na empresa doctor assistant, focado em externalizar um componente com inteligência artificial para outros sistemas.',
           beersApp: 'App de delivery de bebidas',
           daaiLink: "https://www.npmjs.com/package/@doctorassistant/daai-component",
-          beersAppDescription: 'Beers App é um site que fiz para praticar minhas habilidades com React, TypeScript, JavaScript. com a tematíca do studio Ghibli.',
+          beersAppDescription: 'Beers App é um site que fiz com meus colegas durante o curso da trybe, nessa aplicação temos o back-end e o front-end. Foi inspirado em um aplicativo de venda de bebidas',
           beersAppLink: "https://github.com/vitoriacst/App_delivery_Beers",
         }
       ],
